@@ -1,5 +1,5 @@
 # bank-accounts
- This is a simulate bank account balances for three individuals.
+ ## This is a simulate bank account balances for three individuals.
 
 The Balance according to my code are as below
 
